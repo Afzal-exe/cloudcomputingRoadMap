@@ -114,7 +114,7 @@ Understanding these basics builds your mental model of the cloud and prepares yo
 
 | Certification               | Provider        | Cost                          | Notes                          |
 | --------------------------- | --------------- | ----------------------------- | ------------------------------ |
-| AWS Cloud Practitioner      | AWS             | Free vouchers often available | Beginner-friendly              |
+| AWS Cloud Practitioner      | AWS             | \$100                         | Beginner-friendly              |
 | AZ-900                      | Microsoft Azure | \$99                          | High demand in enterprise jobs |
 | Google Cloud Digital Leader | GCP             | \$99                          | Great for GCP exploration      |
 
