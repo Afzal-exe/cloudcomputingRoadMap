@@ -1,6 +1,4 @@
-## 🎤 Know Your Speaker: Mohammed Afzal
-
-!\[Speaker Image Placeholder – Optional]
+## 🎤 Know Your Speaker
 
 ### 👨‍💻 Mohammed Afzal
 
