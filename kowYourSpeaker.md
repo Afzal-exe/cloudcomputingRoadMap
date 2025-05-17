@@ -1,49 +1,50 @@
-## 🎤 Know Your Speaker
+## 🎤 Know Your Speaker: Mohammed Afzal
 
-### 👨‍💻 Mohammed Afzal
+### 👋 Hi, I’m Mohammed Afzal
 
 **Associate Cloud Consultant | DevOps & Cloud Enthusiast**
 **Certifications:** AWS Certified Solutions Architect – Associate | Microsoft AZ-900 | AI-900
 
 ---
 
-### 🌐 About the Speaker:
+### 🌐 About Me
 
-Mohammed Afzal is a passionate Cloud & DevOps professional currently working as an **Associate Cloud Consultant at Spektra Systems (CloudLabs Services)**. With a strong academic background in **Cloud Computing and Big Data** from Reva University and hands-on experience across **AWS, Azure, and GCP**, he specializes in helping organizations design scalable, secure, and cost-effective cloud solutions.
+I’m currently working as an **Associate Cloud Consultant at Spektra Systems (CloudLabs Services)**, where I help organizations design and automate multi-cloud solutions across **Azure, AWS, and GCP**. I hold a degree in **Cloud Computing and Big Data** from Reva University, and I’m passionate about using cloud technologies to solve real-world problems.
 
-Over the past years, Afzal has:
+Over the past year, I’ve had the opportunity to:
 
-* **Deployed multi-cloud infrastructure solutions** using Azure Functions, Docker, and ARM templates
-* **Automated Azure tenant operations** across 650+ environments with PowerShell and Microsoft Graph API
-* Built a **cloud cost forecasting engine** for AWS and GCP to enable efficient resource planning
-* Completed a **DevOps internship** focused on Jenkins CI/CD, monitoring with Prometheus & Grafana, and Terraform provisioning
-
----
-
-### 🧠 Areas of Expertise:
-
-* Cloud Platforms: **AWS, Azure, GCP**
-* Infrastructure as Code: **Terraform, ARM**
-* Cloud Services: EC2, S3, Lambda, Azure VMs, Blob Storage, App Services
-* DevOps Tools: **Docker, Kubernetes, Jenkins**
-* Scripting: **PowerShell, Shell, Python**
+* Deploy **multi-cloud infrastructure** using **Docker**, **Azure Functions**, and **ARM templates**
+* Automate tasks across **650+ Azure tenants** using **PowerShell** and the **Microsoft Graph API**
+* Build a **cloud cost forecasting engine** for **AWS and GCP**
+* Complete a hands-on **DevOps internship**, where I worked with **Jenkins**, **Terraform**, **Prometheus**, and **Grafana** in a production-like setup
 
 ---
 
-### 📢 What to Expect from the Session:
+### 💡 What I’ll Share in This Session
 
-> “Cloud computing is not just about infrastructure—it's about transforming ideas into scalable, global services.”
+> “Cloud computing isn’t just about servers—it’s about turning your ideas into scalable, global services.”
 
-In this session, Mohammed will:
+In this session, I’ll break down:
 
-* Simplify the fundamentals of cloud computing
-* Demonstrate real-world use cases across industries
-* Share practical tips to start your cloud journey
-* Recommend tools, certifications, and learning paths for beginners
+* The **fundamentals of cloud computing** in simple terms
+* Key services offered by major cloud providers
+* **Real-world cloud use cases**
+* Actionable tips and learning paths to **kickstart your cloud journey**
+
+Whether you're just starting out or exploring the cloud for career growth, my goal is to make it clear, relevant, and beginner-friendly.
 
 ---
 
-### 📬 Connect with Mohammed:
+### 🧠 My Areas of Interest:
 
-* **LinkedIn**: [linkedin.com/in/mohammedafzal24](https://www.linkedin.com/in/mohammed-afzallllll/)
-* **GitHub**: [github.com/mohammedafzal2404](https://github.com/Afzal-exe)
+* Cloud Platforms: **Azure, AWS, GCP**
+* DevOps & Automation: **Terraform, Docker, Jenkins, PowerShell**
+* Monitoring & Cost Optimization
+* Infrastructure as Code and CI/CD practices
+
+---
+
+### 📬 Let’s Connect
+
+* **LinkedIn**: [linkedin.com/in/mohammed-afzallllll/](https://www.linkedin.com/in/mohammed-afzallllll/)
+* **GitHub**: [github.com/Afzal-exe](https://github.com/Afzal-exe)
