@@ -403,5 +403,3 @@ Virtualization
 All combined into one model.
 
 ---
-
-Tell me how you plan to use this (teaching / workshop / self-learning).
